@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Microsoft Azure Projects.
 - 🌱 I’m currently learning everything related to the Cloud.
 - 💬 Ask me about DevOps, .NET, C#, React, Azure
-- 😄 Pronouns: ...
+
 
 ### Spotify Playing 🎧
 
